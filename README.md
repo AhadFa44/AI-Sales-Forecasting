@@ -30,6 +30,7 @@
 ```bash
 pip install pandas scikit-learn prophet
 jupyter notebook AI_Sales_Forecasting.ipynb
+```
 
 ## Dashboard Preview
 
@@ -37,8 +38,7 @@ jupyter notebook AI_Sales_Forecasting.ipynb
 ![Overview](Overview.png)
 
 ### Actual-vs-Prediction
-![Actual-vs-Prediction](Actual%20vs%20prediction.png)
+![Actual-vs-Prediction](Actual-vs-prediction.png)
 
 ### Error-Analysis
 ![Error-Analysis](Error-Analysis.png)
-
